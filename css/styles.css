@@ -1,0 +1,17 @@
+:root {
+    --ink:         #17324a;
+    --ink-soft:      #4a6075;
+    --paper:        #f5f8fa;
+    --white:        #ffffff;
+    --line:         #d3dde5;
+    --river:        #1f7a8c;
+    --river-dark:   #165f6d;
+    --gold:         #f2b134;
+
+    --font-head: "Space Grotesk", "Segoe UI", Arial, sans-serif;
+    --font-body: "Source Sans 3", "Segoe UI", Arial, sans-serif;
+
+    --max-width: 1100px;
+    --header-height: 70px;
+}
+
